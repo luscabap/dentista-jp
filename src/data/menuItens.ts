@@ -14,6 +14,6 @@ export const menuItens = [
   {
     id: uuidv4(),
     text: "Agendamento",
-    slug: "agendamentodsadas"
+    slug: "agendamento"
   },
 ]
